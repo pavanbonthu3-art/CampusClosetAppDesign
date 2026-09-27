@@ -1,0 +1,10 @@
+{
+  "description": "Connect with fellow students to easily lend and borrow outfits for events, saving money while earning from unused clothes on campus.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
